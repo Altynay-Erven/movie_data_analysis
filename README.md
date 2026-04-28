@@ -24,7 +24,7 @@ Duration vs Rating
 
 Findings:
 
-Movies longer than 128 minutes have a slightly higher median rating (8.75)
+Movies longer than 128 minutes have a slightly higher median rating (8.75) 
 Shorter movies show greater variability in ratings
 High-rated movies are present in both groups
 
@@ -62,7 +62,6 @@ Number of votes
 Budget and revenue
 Multiple genres
 Apply statistical testing or predictive modeling
-Project Structure
 movie-ratings-analysis/
 ├── README.md
 ├── data/
