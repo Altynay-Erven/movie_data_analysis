@@ -21,6 +21,7 @@ Evaluate whether newer movies perform better than older ones
 Practice exploratory data analysis and visualization
 Analysis and Visualizations
 Duration vs Rating
+![Duration vs Rating](duration_vs_rating.png)
 
 Findings:
 
