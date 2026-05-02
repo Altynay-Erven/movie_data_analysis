@@ -28,7 +28,7 @@ Findings:
 
 Movies longer than 128 minutes have a slightly higher median rating (8.65) 
 
-![duraion>128 higher rating](Median_bar_chart.png)
+![duraion>128 higher rating](median.png)
 
 Shorter movies show greater variability in ratings
 High-rated movies are present in both groups
