@@ -33,6 +33,8 @@ High-rated movies are present in both groups
 There is no clear pattern in the data, indicating a weak relationship between duration and rating.
 
 Release Year vs Rating
+![Release Year vs Rating](Release year_vs_ranking.png)
+
 
 Findings:
 
