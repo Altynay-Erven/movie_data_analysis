@@ -21,6 +21,7 @@ Evaluate whether newer movies perform better than older ones
 Practice exploratory data analysis and visualization
 Analysis and Visualizations
 Duration vs Rating
+
 ![Duration vs Rating](duration_vs_rating.png)
 
 
@@ -36,6 +37,7 @@ High-rated movies are present in both groups
 There is no clear pattern in the data, indicating a weak relationship between duration and rating.
 
 Release Year vs Rating
+
 ![Release Year vs Rating](release_year_vs_rating.png)
 
 
