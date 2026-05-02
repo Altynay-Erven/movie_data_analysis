@@ -21,14 +21,14 @@ Evaluate whether newer movies perform better than older ones
 Practice exploratory data analysis and visualization
 Analysis and Visualizations
 Duration vs Rating
-![Duration vs Rating](duration_vs_ranking.png)
+![Duration vs Rating] (duration_vs_ranking.png)
 
 
 Findings:
 
 Movies longer than 128 minutes have a slightly higher median rating (8.65) 
 
-![duraion>128 higher rating](Median_bar_chart.png)
+![duraion>128 higher rating] (Median_bar_chart.png)
 
 Shorter movies show greater variability in ratings
 High-rated movies are present in both groups
@@ -36,7 +36,7 @@ High-rated movies are present in both groups
 There is no clear pattern in the data, indicating a weak relationship between duration and rating.
 
 Release Year vs Rating
-![Release Year vs Rating](release_year_vs_ranking.png)
+![Release Year vs Rating] (release_year_vs_ranking.png)
 
 
 Findings:
